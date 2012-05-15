@@ -23,9 +23,13 @@ dependencies[] = rdf
 ; Contrib
 dependencies[] = admin
 dependencies[] = ctools
+dependencies[] = entity
+dependencies[] = entity_token
 dependencies[] = libraries
 dependencies[] = pathauto
 dependencies[] = purr_messages
+dependencies[] = rules
+dependencies[] = rules_admin
 dependencies[] = token
 dependencies[] = views
 
