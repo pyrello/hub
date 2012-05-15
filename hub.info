@@ -1,0 +1,39 @@
+name = Hub
+description = Hub install profile for Epic Click
+core = 7.x
+
+; Dependencies
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+; Contrib
+dependencies[] = admin
+dependencies[] = ctools
+dependencies[] = libraries
+dependencies[] = pathauto
+dependencies[] = purr_messages
+dependencies[] = token
+dependencies[] = views
+
+; Commerce
+dependencies[] = commerce
+dependencies[] = commerce_ui
+dependencies[] = commerce_price
+dependencies[] = commerce_product
+dependencies[] = commerce_product_ui
+dependencies[] = commerce_product_pricing
+dependencies[] = commerce_product_pricing_ui
